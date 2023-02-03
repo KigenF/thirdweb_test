@@ -3,7 +3,7 @@ import { config } from "dotenv";
 
 config();
 
-const sdk = ThirdwebSDK.fromPrivateKey(process.env.PRIVATE_KEY, "mumbai");
+const sdk = ThirdwebSDK.fromPrivateKey(process.env.PRIVATE_KEY, "goerli");
 
 const addNFTs = async () => {
   const drop = await sdk.getContract(
