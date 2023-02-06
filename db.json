@@ -16,6 +16,14 @@
         "id": 2,
         "name": "TEST #2",
         "description": "after reveal",
+        "properties":[{"value":"Chocolate","trait_type":"Body"},
+                      {"value":"Shirt-and-sweater","trait_type":"Clothes"},
+                      {"value":"Blurple","trait_type":"Color Background"},
+                      {"value":"Calm","trait_type":"Eyes"},
+                      {"value":"Bullet","trait_type":"Helmets"},
+                      {"value":"Munch","trait_type":"Mouth"},
+                      {"value":"Crosses","trait_type":"Texture"},
+                      {"value":"Level","trait_type":"1"}],
         "image": "https://test-kigen.s3.ap-northeast-1.amazonaws.com/ea1c2abb-5219-4e41-a728-e69d7337b9f5-0/4.png"
       }
     ]
