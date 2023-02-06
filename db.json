@@ -23,7 +23,7 @@
                       {"value":"Bullet","trait_type":"Helmets"},
                       {"value":"Munch","trait_type":"Mouth"},
                       {"value":"Crosses","trait_type":"Texture"},
-                      {"value":"Level","trait_type":"1"}],
+                      {"value":"Level","trait_type":"2"}],
         "image": "https://test-kigen.s3.ap-northeast-1.amazonaws.com/ea1c2abb-5219-4e41-a728-e69d7337b9f5-0/4.png"
       }
     ]
